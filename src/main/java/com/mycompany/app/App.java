@@ -11,7 +11,8 @@ public class App {
 
     public static void main(String[] args) {
         System.out.println(MESSAGE);
-        System.out.println("Test Message");
+        System.out.println("Test Push - Dev");
+        System.out.println("Test Push - QA");
     }
 
     public String getMessage() {
